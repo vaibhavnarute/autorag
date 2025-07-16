@@ -1,0 +1,12 @@
+Alembic Migration Commands
+=========================
+
+To create a new migration after changing models:
+
+    alembic revision --autogenerate -m "Your message"
+
+To apply migrations to the database:
+
+    alembic upgrade head
+
+Make sure your database URL is set correctly in alembic.ini or via environment variables. 

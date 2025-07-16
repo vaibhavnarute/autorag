@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ragauto-app",
+  "private_key_id": "76d79e75623be556c6a049056ce036966ccb3850",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDvTgOAfSrvUo0t\nGLgFeL4BhpfXPhj51Fkgk+h2fI8AWc+erWL2w9cM0Dj0tn9Wd0Mzv5vXRpl2U+GM\nlwYn/3moX3lW3P6N1Of9F/w2rT96HJmG4I5ez6aYbLXBwpNFszL/n46W218rU1K/\nJqFFmKmIqFBvEkKO+BUvqTH1M5BRX+TPv8wFCq95BSkMyB/LhDL2jKwUkeK1I8Ja\n3DbKzdx6pJI0sFL1WDjQmSte/81WkX84z7RWD8oTpp1c+jd5WvDtUMAE01lhv47I\nNnCipntZHQIAwT67+WbX8JRMl0/H4icVch2c3b3S+i6Kpt/jCw6wYTZOXSGN38HO\nSCcOJrtBAgMBAAECggEAYGXswzWotf9rH191wb6By9uMDwjUxs7jmFv8qL5EXL/R\nAvqVgxIg7uhyCSH66bnhOFdXT8EA0Mm5cgjkUfh36XuMRZGAeWHqkem3j876YxZi\nQhLzRv4e/gfMr+DRsqIdSRvdNKfqDmniS14kWQTGRmaHADc62JzW6/wcQ8ohuKVA\n4170RZO6Z99ngdyiG4Edo/ROY/uwDvttwRoy7dUv6Y9GZymRzEVlbM/3WWn+XcF9\nS4M3foL82be3loNHXP1rxMiO/y7UQnQfr8PwlZ0DekfTQwHoerdqgWaHyUdtlM83\nx6q6KseSUmh5nUgmRAbR0mrwdLdtPwSC/7JIkeqMgQKBgQD/lUsmj+Vgp60441hi\nDa39KPzUzc57+7Sw7Oa1q1vgRrHTLjweUr2w1NSauCKt0XHpc+zgegwASazioCr0\nJiU7QhNS/OK3LmI1hFVE8uKZePU/JSYCJXJbBnoBLJYnNcODVeEqb8dF6F76UGNW\n18JLEcsGFrZyaFt4oHftf28GLwKBgQDvseyBG7NtRSWFGFRlYaU/rvpoQ0CRwMUN\nvVHHy0ZBGjNx2jxrWNY/gZx+36LdqR6zvg3uN+sCS8sEJDC3/xJACu0tCJTn2eqE\nDJxHrSagLQA4qv5sGNsWcCxSvS49tTcIEIfu7wKjG1/RzkLhXMRc+YlwJKVshii6\nFqUDNrdpjwKBgQD6Y3uNWtngOEU2/1teLIKxCw+vN7U7t9tMnbpkbm2DKh8agig5\nmNvnuopSzWSEHzXW/VAqlsbdHVC3cSzDpf9Br7kYy1EdHt7uCSg0dTNUIbE6XJ2A\n6si+rnimX9T2svBI4cDG/10despZtpmrwZLCUrswyt2Q9fXvFl6HmRne1wKBgQCk\nMCBtH+h8RQ06ajwFZimnwdhNayPjs0RH8RL/5MIu/h+XMYKJlcTMo5/rWI1bgOlC\n/kDUmQEmBXz/TTsCDnsV22YzntlBKAh4g5rZjkYTGkA4kQjOSwhoClaSJnxyUJtt\nrsUuahJIYAv2z28IqF7pwRTf+HpIKG3lanWGCgkBCQKBgQDt6DdLR3TxQsgNa/u6\n8SINtvVKamvvg8O8sFFOhZri08GsmKD1cUQ5sSxKcuok8Zkwbbdc5Uv2cxUht522\nenISsd5RYvqMeyu6MOeo7H2mT8ATw8jNzP2yEAE2JpAxZsLWHHcnrEIoFOJjcYhX\n53L46VzzYwPlE+aklo/G8GV6VA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "autorag@ragauto-app.iam.gserviceaccount.com",
+  "client_id": "114868603583890863288",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/autorag%40ragauto-app.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
